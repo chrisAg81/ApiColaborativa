@@ -1,0 +1,6 @@
+@ApiColaborativa_HostAddress = http://localhost:5082
+
+GET {{ApiColaborativa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
